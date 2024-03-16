@@ -388,7 +388,7 @@ Ali je ovo jako "unpythonic" tj nije u duhu pythona
 '''
 To bi bilo to za ovu skripticu, naravno ni blizu nije sve spomenuto i objašnjeno, ali to nije bio ni cilj
 Nadam se da necete imati problema pisati jednostavnije python programe i da vam je ova skripta bila od pomoci.
-Za bilo kakve greske ili dodatke posaljite mi mail ili commit-ajte na githubu
+Za bilo kakve greske ili dodatke posaljite mi mail ili commit-ajte na githubu https://github.com/hibrahimag1/Python-manual
 Sretno!
 
 
